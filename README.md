@@ -1,3 +1,3 @@
-# mqtt docker-compose
+# mosquitto_docker-compose
 
-1. clear out credentials prior to deploy
+**ToDo (update and complete README)**
